@@ -6,3 +6,6 @@
 前端：Socket+Vue(Vuex...)+Element
 
 这里实现很简单只是单聊的模式。
+
+更多见博客：  https://blog.csdn.net/sanhewuyang/article/details/104262273
+
